@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e87becbe54e11b5542b8876b8fc934e",
+    "revision": "962eb8a32b84c5a037bb512726aa4858",
     "url": "/MyPortfolioWebsite/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyPortfolioWebsite/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "9109b92d0f73244c401f",
+    "revision": "857cb217ae309139f209",
     "url": "/MyPortfolioWebsite/static/css/main.77d3ca03.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyPortfolioWebsite/static/js/4.85fc1b23.chunk.js"
   },
   {
-    "revision": "9109b92d0f73244c401f",
-    "url": "/MyPortfolioWebsite/static/js/main.8df707bd.chunk.js"
+    "revision": "857cb217ae309139f209",
+    "url": "/MyPortfolioWebsite/static/js/main.2eebacfb.chunk.js"
   },
   {
     "revision": "30547c1eda5ce424d366",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/MyPortfolioWebsite/static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "a2f7ae4b334ca34b87c609106d116979",
+    "url": "/MyPortfolioWebsite/static/media/IIT_PKD_short logo_RGB.a2f7ae4b.jpg"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -72,10 +76,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyPortfolioWebsite/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
-    "revision": "35ef5e915631be2c31ccdff55b53db29",
-    "url": "/MyPortfolioWebsite/static/media/harvardLogo.35ef5e91.png"
-  },
-  {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/MyPortfolioWebsite/static/media/manOnTable.52be3144.svg"
   },
@@ -98,10 +98,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/MyPortfolioWebsite/static/media/skill.34409398.svg"
-  },
-  {
-    "revision": "3b758ef56d398145542e137daa28e392",
-    "url": "/MyPortfolioWebsite/static/media/stanfordLogo.3b758ef5.png"
   },
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
