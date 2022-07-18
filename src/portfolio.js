@@ -134,16 +134,16 @@ const techStack = {
     viewSkillBars: true, //Set it to true to show Proficiency Section
     experience: [
         {
-            Stack: "Frontend/Design", //Insert stack or technology you have experience in
-            progressPercentage: "90%" //Insert relative proficiency in percentage
+            Stack: "Python", //Insert stack or technology you have experience in
+            progressPercentage: "75%" //Insert relative proficiency in percentage
         },
         {
-            Stack: "Backend",
-            progressPercentage: "70%"
+            Stack: "Kotlin",
+            progressPercentage: "50%"
         },
         {
-            Stack: "Programming",
-            progressPercentage: "60%"
+            Stack: "MySQL",
+            progressPercentage: "80%"
         }
     ],
     displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -155,29 +155,30 @@ const workExperiences = {
     display: true, //Set it to true to show workExperiences Section
     experience: [
         {
-            role: "Software Engineer",
-            company: "Facebook",
+            role: "Technical Lead",
+            company: "Digital Future of Education Pvt. Ltd.",
             companylogo: require("./assets/images/facebookLogo.png"),
-            date: "June 2018 – Present",
-            desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            date: "March 2021 – December 2021",
+            desc: "Worked as the team lead for cross platform application development which included Web, Android and iOS.",
             descBullets: [
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+                "Overseen the entire development effort through all the stages to create a primary education market mobile app.",
+                "Contributed to rewriting the codebase from Java to Kotlin along with the usage of modern libraries for API calls and background task handling.",
+                "Helped in increasing the speed of development (number of screens) by 2 times in all the other platforms (iOS, Web)"
             ]
         },
         {
-            role: "Front-End Developer",
-            company: "Quora",
+            role: "Co-founder and CEO",
+            company: "Your Kirana",
             companylogo: require("./assets/images/quoraLogo.png"),
-            date: "May 2017 – May 2018",
-            desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            date: "March 2020 – February 2021",
+            desc: "YourKirana is a mobile app that helps local shop owners by being a mobile POS solution instead of expensive physical devices as alternatives."
         },
         {
-            role: "Software Engineer Intern",
-            company: "Airbnb",
+            role: "Business Analyst",
+            company: "Tredence Analytics Solutions Pvt. Ltd.",
             companylogo: require("./assets/images/airbnbLogo.png"),
-            date: "Jan 2015 – Sep 2015",
-            desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            date: "August 2019 – February 2020",
+            desc: "Helped the world's largest retailer in analysing their vast amounts of raw data and come up with business insights."
         }
     ]
 };
