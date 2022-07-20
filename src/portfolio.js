@@ -194,32 +194,21 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-    title: "Big Projects",
-    subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+    title: "My Projects",
+    subtitle: "All the interesting projects I have taken up over the past few years.",
     projects: [
         {
             image: require("./assets/images/saayaHealthLogo.webp"),
-            projectName: "Saayahealth",
-            projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+            projectName: "Your Kirana App",
+            projectDesc: "The Android app I have developed for my idea of introducing mass adoption of PoS systems to Indian retailers.",
             footerLink: [
                 {
-                    name: "Visit Website",
-                    url: "http://saayahealth.com/"
+                    name: "Link to the app",
+                    url: "https://play.google.com/store/apps/details?id=com.titos.barcodescanner&hl=en_GB&gl=US"
                 }
                 //  you can add extra buttons here.
             ]
         },
-        {
-            image: require("./assets/images/nextuLogo.webp"),
-            projectName: "Nextu",
-            projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-            footerLink: [
-                {
-                    name: "Visit Website",
-                    url: "http://nextu.se/"
-                }
-            ]
-        }
     ],
     display: true // Set false to hide this section, defaults to true
 };
