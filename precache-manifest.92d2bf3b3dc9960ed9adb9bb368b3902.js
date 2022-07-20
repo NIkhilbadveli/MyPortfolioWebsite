@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3df05dfbd138ffffa5074179699d6b74",
+    "revision": "f20950780681be3e8ee52dce958976b8",
     "url": "/MyPortfolioWebsite/index.html"
   },
   {
-    "revision": "ddfc0ca72f4011d7478b",
+    "revision": "8165d27ca3928cc3c3f1",
     "url": "/MyPortfolioWebsite/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "fe682bb0e50fa637f766",
+    "revision": "dec80cfd1c17419defbb",
     "url": "/MyPortfolioWebsite/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "5441675539b8bec53d63",
+    "revision": "a83ab498b9a96e588399",
     "url": "/MyPortfolioWebsite/static/css/main.77d3ca03.chunk.css"
   },
   {
-    "revision": "f23dbdc07fc9f91832a8",
-    "url": "/MyPortfolioWebsite/static/js/2.cc973cb9.chunk.js"
+    "revision": "9666e499954685460b4b",
+    "url": "/MyPortfolioWebsite/static/js/2.3b86aec9.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/MyPortfolioWebsite/static/js/2.cc973cb9.chunk.js.LICENSE.txt"
+    "url": "/MyPortfolioWebsite/static/js/2.3b86aec9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ddfc0ca72f4011d7478b",
-    "url": "/MyPortfolioWebsite/static/js/3.3d910b65.chunk.js"
+    "revision": "8165d27ca3928cc3c3f1",
+    "url": "/MyPortfolioWebsite/static/js/3.8eaa3a20.chunk.js"
   },
   {
-    "revision": "fe682bb0e50fa637f766",
-    "url": "/MyPortfolioWebsite/static/js/4.85fc1b23.chunk.js"
+    "revision": "dec80cfd1c17419defbb",
+    "url": "/MyPortfolioWebsite/static/js/4.61de8afa.chunk.js"
   },
   {
-    "revision": "5441675539b8bec53d63",
-    "url": "/MyPortfolioWebsite/static/js/main.9b493cdc.chunk.js"
+    "revision": "a83ab498b9a96e588399",
+    "url": "/MyPortfolioWebsite/static/js/main.6bfa7fcd.chunk.js"
   },
   {
-    "revision": "30547c1eda5ce424d366",
-    "url": "/MyPortfolioWebsite/static/js/runtime-main.d78a719b.js"
+    "revision": "24ad92927db6f49a4a7a",
+    "url": "/MyPortfolioWebsite/static/js/runtime-main.7fd5e85e.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -78,10 +78,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/MyPortfolioWebsite/static/media/manOnTable.52be3144.svg"
-  },
-  {
-    "revision": "829ad0a1deef4d7295adfecdf12df2be",
-    "url": "/MyPortfolioWebsite/static/media/nextuLogo.829ad0a1.webp"
   },
   {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
