@@ -157,7 +157,7 @@ const workExperiences = {
         {
             role: "Technical Lead",
             company: "Digital Future of Education Pvt. Ltd.",
-            companylogo: require("./assets/images/facebookLogo.png"),
+            companylogo: require("./assets/images/dfoe.png"),
             date: "March 2021 – December 2021",
             desc: "Worked as the team lead for cross platform application development which included Web, Android and iOS.",
             descBullets: [
@@ -169,14 +169,14 @@ const workExperiences = {
         {
             role: "Co-founder and CEO",
             company: "Your Kirana",
-            companylogo: require("./assets/images/quoraLogo.png"),
+            companylogo: require("./assets/images/your_kirana.png"),
             date: "March 2020 – February 2021",
             desc: "YourKirana is a mobile app that helps local shop owners by being a mobile POS solution instead of expensive physical devices as alternatives."
         },
         {
             role: "Business Analyst",
             company: "Tredence Analytics Solutions Pvt. Ltd.",
-            companylogo: require("./assets/images/airbnbLogo.png"),
+            companylogo: require("./assets/images/tredence_logo.png"),
             date: "August 2019 – February 2020",
             desc: "Helped the world's largest retailer in analysing their vast amounts of raw data and come up with business insights."
         }
@@ -198,7 +198,7 @@ const bigProjects = {
     subtitle: "All the interesting projects I have taken up over the past few years.",
     projects: [
         {
-            image: require("./assets/images/saayaHealthLogo.webp"),
+            image: require("./assets/images/your_kirana.png"),
             projectName: "Your Kirana App",
             projectDesc: "The Android app I have developed for my idea of introducing mass adoption of PoS systems to Indian retailers.",
             footerLink: [
@@ -268,7 +268,7 @@ const achievementSection = {
             ]
         }
     ],
-    display: true // Set false to hide this section, defaults to true
+    display: false // Set false to hide this section, defaults to true
 };
 
 // Blogs Section
@@ -311,7 +311,7 @@ const talkSection = {
             event_url: "https://www.facebook.com/events/2339906106275053/"
         }
     ],
-    display: true // Set false to hide this section, defaults to true
+    display: false // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
@@ -324,21 +324,21 @@ const podcastSection = {
     podcast: [
         "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
     ],
-    display: true // Set false to hide this section, defaults to true
+    display: false // Set false to hide this section, defaults to true
 };
 
 const contactInfo = {
     title: emoji("Contact Me ☎️"),
     subtitle:
-        "Discuss a project or just want to say hi? My Inbox is open for all.",
-    number: "+92-0000000000",
-    email_address: "saadpasta70@gmail.com"
+        "Feel free to email me for any interesting projects!",
+    number: "+44 07442623308",
+    email_address: "nikhilbadveli6@gmail.com"
 };
 
 // Twitter Section
 
 const twitterDetails = {
-    userName: "twitter", //Replace "twitter" with your twitter username without @
+    userName: "nikhilbadveli6", //Replace "twitter" with your twitter username without @
     display: true // Set true to display this section, defaults to false
 };
 
