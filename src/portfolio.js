@@ -209,6 +209,18 @@ const bigProjects = {
                 //  you can add extra buttons here.
             ]
         },
+        {
+            image: require("./assets/images/programmer.svg"),
+            projectName: "Social Media Data Miner",
+            projectDesc: "Using different libraries for various social media platforms such as Twitter, Facebook, Instagram, this project has the functionality to extract data for a given username.",
+            footerLink: [
+                {
+                    name: "Link to the repo",
+                    url: "https://github.com/NIkhilbadveli/SocialMediaDataMiner.git"
+                }
+                //  you can add extra buttons here.
+            ]
+        },
     ],
     display: true // Set false to hide this section, defaults to true
 };
