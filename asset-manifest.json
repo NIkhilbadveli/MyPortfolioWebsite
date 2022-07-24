@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/MyPortfolioWebsite/static/css/main.77d3ca03.chunk.css",
-    "main.js": "/MyPortfolioWebsite/static/js/main.d26bf31f.chunk.js",
-    "main.js.map": "/MyPortfolioWebsite/static/js/main.d26bf31f.chunk.js.map",
-    "runtime-main.js": "/MyPortfolioWebsite/static/js/runtime-main.04bfb84c.js",
-    "runtime-main.js.map": "/MyPortfolioWebsite/static/js/runtime-main.04bfb84c.js.map",
-    "static/js/2.f5a65775.chunk.js": "/MyPortfolioWebsite/static/js/2.f5a65775.chunk.js",
-    "static/js/2.f5a65775.chunk.js.map": "/MyPortfolioWebsite/static/js/2.f5a65775.chunk.js.map",
+    "main.js": "/MyPortfolioWebsite/static/js/main.89903657.chunk.js",
+    "main.js.map": "/MyPortfolioWebsite/static/js/main.89903657.chunk.js.map",
+    "runtime-main.js": "/MyPortfolioWebsite/static/js/runtime-main.7fd5e85e.js",
+    "runtime-main.js.map": "/MyPortfolioWebsite/static/js/runtime-main.7fd5e85e.js.map",
+    "static/js/2.9446c7fc.chunk.js": "/MyPortfolioWebsite/static/js/2.9446c7fc.chunk.js",
+    "static/js/2.9446c7fc.chunk.js.map": "/MyPortfolioWebsite/static/js/2.9446c7fc.chunk.js.map",
     "static/css/3.df879eac.chunk.css": "/MyPortfolioWebsite/static/css/3.df879eac.chunk.css",
-    "static/js/3.002652cd.chunk.js": "/MyPortfolioWebsite/static/js/3.002652cd.chunk.js",
-    "static/js/3.002652cd.chunk.js.map": "/MyPortfolioWebsite/static/js/3.002652cd.chunk.js.map",
+    "static/js/3.8eaa3a20.chunk.js": "/MyPortfolioWebsite/static/js/3.8eaa3a20.chunk.js",
+    "static/js/3.8eaa3a20.chunk.js.map": "/MyPortfolioWebsite/static/js/3.8eaa3a20.chunk.js.map",
     "static/css/4.e91a4b36.chunk.css": "/MyPortfolioWebsite/static/css/4.e91a4b36.chunk.css",
-    "static/js/4.f06a645c.chunk.js": "/MyPortfolioWebsite/static/js/4.f06a645c.chunk.js",
-    "static/js/4.f06a645c.chunk.js.map": "/MyPortfolioWebsite/static/js/4.f06a645c.chunk.js.map",
+    "static/js/4.61de8afa.chunk.js": "/MyPortfolioWebsite/static/js/4.61de8afa.chunk.js",
+    "static/js/4.61de8afa.chunk.js.map": "/MyPortfolioWebsite/static/js/4.61de8afa.chunk.js.map",
     "index.html": "/MyPortfolioWebsite/index.html",
-    "precache-manifest.431ab07e347cfb7019a25a49f8279514.js": "/MyPortfolioWebsite/precache-manifest.431ab07e347cfb7019a25a49f8279514.js",
+    "precache-manifest.903237d2da1656ea9fb91d00bc21e4e9.js": "/MyPortfolioWebsite/precache-manifest.903237d2da1656ea9fb91d00bc21e4e9.js",
     "service-worker.js": "/MyPortfolioWebsite/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/MyPortfolioWebsite/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/MyPortfolioWebsite/static/css/4.e91a4b36.chunk.css.map",
     "static/css/main.77d3ca03.chunk.css.map": "/MyPortfolioWebsite/static/css/main.77d3ca03.chunk.css.map",
-    "static/js/2.f5a65775.chunk.js.LICENSE.txt": "/MyPortfolioWebsite/static/js/2.f5a65775.chunk.js.LICENSE.txt",
+    "static/js/2.9446c7fc.chunk.js.LICENSE.txt": "/MyPortfolioWebsite/static/js/2.9446c7fc.chunk.js.LICENSE.txt",
     "static/media/index.css": "/MyPortfolioWebsite/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/IIT_PKD_short logo_RGB.jpg": "/MyPortfolioWebsite/static/media/IIT_PKD_short logo_RGB.a2f7ae4b.jpg",
     "static/media/codeInLogo.webp": "/MyPortfolioWebsite/static/media/codeInLogo.47a7a717.webp",
@@ -27,6 +27,7 @@
     "static/media/developerActivity.svg": "/MyPortfolioWebsite/static/media/developerActivity.59389695.svg",
     "static/media/googleAssistantLogo.webp": "/MyPortfolioWebsite/static/media/googleAssistantLogo.e79c6392.webp",
     "static/media/manOnTable.svg": "/MyPortfolioWebsite/static/media/manOnTable.52be3144.svg",
+    "static/media/programmer.svg": "/MyPortfolioWebsite/static/media/programmer.c1a95f73.svg",
     "static/media/pwaLogo.webp": "/MyPortfolioWebsite/static/media/pwaLogo.ee62cb58.webp",
     "static/media/skill.svg": "/MyPortfolioWebsite/static/media/skill.34409398.svg",
     "static/media/TalkCard.scss": "/MyPortfolioWebsite/static/media/talksCardBack.13780cdd.svg",
@@ -34,9 +35,9 @@
     "static/media/your_kirana.png": "/MyPortfolioWebsite/static/media/your_kirana.f5d27e00.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.04bfb84c.js",
-    "static/js/2.f5a65775.chunk.js",
+    "static/js/runtime-main.7fd5e85e.js",
+    "static/js/2.9446c7fc.chunk.js",
     "static/css/main.77d3ca03.chunk.css",
-    "static/js/main.d26bf31f.chunk.js"
+    "static/js/main.89903657.chunk.js"
   ]
 }
