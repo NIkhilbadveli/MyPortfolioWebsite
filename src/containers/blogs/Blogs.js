@@ -23,7 +23,7 @@ export default function Blogs() {
   useEffect(() => {
     if (blogSection.displayMediumBlogs === "true") {
       const getProfileData = () => {
-        fetch("/blogs.json")
+        fetch("http://localhost:3000/MyPortfolioWebsite/blogs.json") // Do not use absolute path like this if the port is 8080.
           .then(result => {
             if (result.ok) {
               return result.json();

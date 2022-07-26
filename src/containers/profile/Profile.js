@@ -16,13 +16,14 @@ export default function Profile() {
   useEffect(() => {
     if (openSource.showGithubProfile === "true") {
       const getProfileData = () => {
-        fetch("/profile.json")
+        fetch("http://localhost:3000/MyPortfolioWebsite/profile.json") // Do not use absolute path like this if the port is 8080.
           .then(result => {
             if (result.ok) {
               return result.json();
             }
           })
           .then(response => {
+            console.log(response)
             setProfileFunction(response.data.user);
           })
           .catch(function (error) {

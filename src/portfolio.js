@@ -10,7 +10,7 @@ import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your
 const splashScreen = {
     enabled: true, // set false to disable splash screen
     animation: splashAnimation,
-    duration: 2000 // Set animation duration as per your animation
+    duration: 1000 // Set animation duration as per your animation
 };
 
 // Summary And Greeting Section
@@ -49,7 +49,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
     title: "What I am good at",
-    subTitle: "NEW KID IN THE BLOCK EXPERIMENTING WITH LIFE",
+    subTitle: "MY TECH STACK AS OF NOW",
     skills: [
         emoji(
             "⚡ Understanding the business problem and identifying the possible AI models/algos that can be used"
@@ -187,7 +187,7 @@ const workExperiences = {
 To know how to get github key look at readme.md */
 
 const openSource = {
-    showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
+    showGithubProfile: "false", // Set true or false to show Contact profile using Github, defaults to true
     display: true // Set false to hide this section, defaults to true
 };
 

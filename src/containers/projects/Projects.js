@@ -16,13 +16,14 @@ export default function Projects() {
 
   useEffect(() => {
     const getRepoData = () => {
-      fetch("/profile.json")
+      fetch("http://localhost:3000/MyPortfolioWebsite/profile.json") // Do not use absolute path like this if the port is 8080.
         .then(result => {
+          // return result.text()
           if (result.ok) {
             return result.json();
           }
           throw result;
-        })
+        })//.then(text => console.log(text))
         .then(response => {
           setrepoFunction(response.data.user.pinnedItems.edges);
         })
