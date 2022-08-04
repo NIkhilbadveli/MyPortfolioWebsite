@@ -159,7 +159,7 @@ const workExperiences = {
             company: "Digital Future of Education Pvt. Ltd.",
             companylogo: require("./assets/images/dfoe.png"),
             date: "March 2021 – December 2021",
-            desc: "Worked as the team lead for cross platform application development which included Web, Android and iOS.",
+            desc: "Worked as the team lead and Android developer for cross platform application development which included Web, Android and iOS.",
             descBullets: [
                 "Overseen the entire development effort through all the stages to create a primary education market mobile app.",
                 "Contributed to rewriting the codebase from Java to Kotlin along with the usage of modern libraries for API calls and background task handling.",
