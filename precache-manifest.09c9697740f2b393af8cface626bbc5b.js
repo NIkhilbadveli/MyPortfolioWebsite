@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bbfdd231723c99e33a91e39e94fe2515",
+    "revision": "b5a12872b1d1b99122bbe691ea6f5bd1",
     "url": "/MyPortfolioWebsite/index.html"
   },
   {
-    "revision": "ee24442892aa9642e4f1",
+    "revision": "d28e4b5aaeffb731ebc7",
     "url": "/MyPortfolioWebsite/static/css/3.7bd959ab.chunk.css"
   },
   {
-    "revision": "3f7b54395c392bfc0ae8",
+    "revision": "024c44a921d160f47c50",
     "url": "/MyPortfolioWebsite/static/css/4.e31574be.chunk.css"
   },
   {
-    "revision": "0b5ff10b526b8d36885e",
-    "url": "/MyPortfolioWebsite/static/css/main.1b6859a4.chunk.css"
+    "revision": "cdcfd2a8b389ab755a7c",
+    "url": "/MyPortfolioWebsite/static/css/main.99cefed9.chunk.css"
   },
   {
-    "revision": "ae60100a12d4521e8756",
-    "url": "/MyPortfolioWebsite/static/js/2.9446c7fc.chunk.js"
+    "revision": "e5e41ccb24b06e5b6235",
+    "url": "/MyPortfolioWebsite/static/js/2.62cb24d7.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/MyPortfolioWebsite/static/js/2.9446c7fc.chunk.js.LICENSE.txt"
+    "url": "/MyPortfolioWebsite/static/js/2.62cb24d7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ee24442892aa9642e4f1",
-    "url": "/MyPortfolioWebsite/static/js/3.8eaa3a20.chunk.js"
+    "revision": "d28e4b5aaeffb731ebc7",
+    "url": "/MyPortfolioWebsite/static/js/3.d85cee2a.chunk.js"
   },
   {
-    "revision": "3f7b54395c392bfc0ae8",
-    "url": "/MyPortfolioWebsite/static/js/4.61de8afa.chunk.js"
+    "revision": "024c44a921d160f47c50",
+    "url": "/MyPortfolioWebsite/static/js/4.9d38bd55.chunk.js"
   },
   {
-    "revision": "0b5ff10b526b8d36885e",
-    "url": "/MyPortfolioWebsite/static/js/main.263f0861.chunk.js"
+    "revision": "cdcfd2a8b389ab755a7c",
+    "url": "/MyPortfolioWebsite/static/js/main.56aa1a55.chunk.js"
   },
   {
-    "revision": "417e12532a34d1a0cc1a",
-    "url": "/MyPortfolioWebsite/static/js/runtime-main.1009d077.js"
+    "revision": "faa957e720eec957a749",
+    "url": "/MyPortfolioWebsite/static/js/runtime-main.73c3d708.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -52,20 +52,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyPortfolioWebsite/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "47a7a717679b640ceb1b05d38c480a61",
-    "url": "/MyPortfolioWebsite/static/media/codeInLogo.47a7a717.webp"
-  },
-  {
     "revision": "51cf7192327488da3d2a171280680c16",
     "url": "/MyPortfolioWebsite/static/media/contactMailDark.51cf7192.svg"
   },
   {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "/MyPortfolioWebsite/static/media/developerActivity.59389695.svg"
-  },
-  {
-    "revision": "e79c639294c805688be731921368c8f8",
-    "url": "/MyPortfolioWebsite/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
