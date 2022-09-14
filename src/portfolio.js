@@ -8,7 +8,7 @@ import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your
 // Splash Screen
 
 const splashScreen = {
-    enabled: true, // set false to disable splash screen
+    enabled: false, // set false to disable splash screen
     animation: splashAnimation,
     duration: 1000 // Set animation duration as per your animation
 };
@@ -16,17 +16,17 @@ const splashScreen = {
 // Summary And Greeting Section
 
 const illustration = {
-    animated: true // Set to false to use static SVG
+    animated: false // Set to false to use static SVG
 };
 
 const greeting = {
     username: "Nikhil Badveli",
-    title: "Hello everyone, I'm Nikhil -_-",
+    title: "Hello everyone, I'm Nikhil Badveli",
     subTitle: emoji(
-        "A passionate Machine Learning Engineer exploring the world of Artificial Intelligence and day dreaming about having a big tech job."
+        "A passionate Data Scientist | ML Engineer | AI Engineer exploring the world of Artificial Intelligence and day dreaming about having a big tech job."
     ),
     resumeLink:
-        "https://drive.google.com/file/d/16OFQgZFXL44-iC8G70gbglrLZsyLRHdS/view?usp=sharing", // Set to empty to hide the button
+        "", // Set to empty to hide the button
     displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -39,6 +39,7 @@ const socialMediaLinks = {
     // gitlab: "https://gitlab.com/saadpasta",
     // facebook: "https://www.facebook.com/saad.pasta7",
     medium: "https://medium.com/@nikhilbadveli6",
+    kaggle: "https://www.kaggle.com/nikhilbadveli",
     // stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
     // Instagram, Twitter and Kaggle are also supported in the links!
     // To customize icons and social links, tweak src/components/SocialMedia
@@ -131,7 +132,7 @@ const educationInfo = {
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
-    viewSkillBars: true, //Set it to true to show Proficiency Section
+    viewSkillBars: false, //Set it to true to show Proficiency Section
     experience: [
         {
             Stack: "Python", //Insert stack or technology you have experience in
@@ -187,7 +188,7 @@ const workExperiences = {
 To know how to get github key look at readme.md */
 
 const openSource = {
-    showGithubProfile: "false", // Set true or false to show Contact profile using Github, defaults to true
+    showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
     display: true // Set false to hide this section, defaults to true
 };
 
@@ -222,7 +223,7 @@ const bigProjects = {
             ]
         },
     ],
-    display: true // Set false to hide this section, defaults to true
+    display: false // Set false to hide this section, defaults to true
 };
 
 // Achievement Section
@@ -234,39 +235,6 @@ const achievementSection = {
         "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
 
     achievementsCards: [
-        {
-            title: "Google Code-In Finalist",
-            subtitle:
-                "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-            image: require("./assets/images/codeInLogo.webp"),
-            footerLink: [
-                {
-                    name: "Certification",
-                    url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-                },
-                {
-                    name: "Award Letter",
-                    url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-                },
-                {
-                    name: "Google Code-in Blog",
-                    url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
-                }
-            ]
-        },
-        {
-            title: "Google Assistant Action",
-            subtitle:
-                "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-            image: require("./assets/images/googleAssistantLogo.webp"),
-            footerLink: [
-                {
-                    name: "View Google Assistant Action",
-                    url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
-                }
-            ]
-        },
-
         {
             title: "PWA Web App Developer",
             subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
@@ -288,20 +256,32 @@ const achievementSection = {
 const blogSection = {
     title: "Blogs",
     subtitle:
-        "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
-    displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
+        "I like to share what I'm currently learning and experimenting",
+    displayMediumBlogs: "false", // Set true to display fetched medium blogs instead of hardcoded ones
     blogs: [
         {
-            url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-            title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+            url: "https://medium.com/@nikhilbadveli6/chatbot-1-natural-language-processing-nlp-36d510477ef1",
+            title: "Chatbot — 1, Natural Language Processing (NLP)",
             description:
-                "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+                "This is the first post in the chatbot series, which itself is part of a bigger series on NLP."
         },
         {
-            url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-            title: "Why REACT is The Best?",
+            url: "https://medium.com/@nikhilbadveli6/did-deepmind-crack-the-surface-of-artificial-general-intelligence-agi-5cb878611c28",
+            title: "Did DeepMind crack the surface of Artificial General Intelligence (AGI)?",
             description:
-                "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+                "DeepMind, yet again published a crazy paper and this time it involves a robot in a virtual environment behaving according to human instructions expressed in natural language through a chat like interface."
+        },
+        {
+            url: "https://medium.com/@nikhilbadveli6/reinforcement-learning-1-79cdec3599f9",
+            title: "Reinforcement Learning — 1",
+            description:
+                "In this series of posts, we will learn about reinforcement learning (RL)by implementing basic projects that can illustrate RL concepts in a easy to understand manner."
+        },
+        {
+            url: "https://medium.com/insiderfinance/dumbest-crypto-trading-strategy-ever-fba2f11f5073",
+            title: "Dumbest crypto trading strategy ever!",
+            description:
+                "Ah… that elusive dream of making millions through crypto trading. After reading countless stories of people hitting big by just holding bitcoin, I too have dreamed about leaping into this mania. But, I didn’t have enough money during the 2017 boom and when I had enough money, I thought there was no more growth left in the crypto space."
         }
     ],
     display: true // Set false to hide this section, defaults to true

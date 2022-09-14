@@ -25,11 +25,6 @@ function Header() {
   return (
     <Headroom>
       <header className={isDark ? "dark-menu header" : "header"}>
-        <a href="/" className="logo">
-          <span className="grey-color"> &lt;</span>
-          <span className="logo-name">{greeting.username}</span>
-          <span className="grey-color">/&gt;</span>
-        </a>
         <input className="menu-btn" type="checkbox" id="menu-btn" />
         <label
           className="menu-icon"
@@ -44,14 +39,14 @@ function Header() {
               <a href="#skills">Skills</a>
             </li>
           )}
+          {viewOpenSource && (
+              <li>
+                <a href="#opensource">Projects</a>
+              </li>
+          )}
           {viewExperience && (
             <li>
-              <a href="#experience">Work Experiences</a>
-            </li>
-          )}
-          {viewOpenSource && (
-            <li>
-              <a href="#opensource">Open Source</a>
+              <a href="#experience">Work</a>
             </li>
           )}
           {viewAchievement && (
@@ -79,6 +74,11 @@ function Header() {
             </a>
           </li>
         </ul>
+        <a href="/" className="logo">
+          <span className="grey-color"> &lt;</span>
+          <span className="logo-name">{greeting.username}</span>
+          <span className="grey-color">/&gt;</span>
+        </a>
       </header>
     </Headroom>
   );
