@@ -16,7 +16,7 @@ export default function Profile() {
   useEffect(() => {
     if (openSource.showGithubProfile === "true") {
       const getProfileData = () => {
-        fetch("http://localhost:3000/MyPortfolioWebsite/profile.json") // Do not use absolute path like this if the port is 8080.
+        fetch("profile.json") // http://localhost:3000/MyPortfolioWebsite #### Do not use absolute path like this if the port is 8080.
           .then(result => {
             if (result.ok) {
               return result.json();

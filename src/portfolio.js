@@ -257,7 +257,7 @@ const blogSection = {
     title: "Blogs",
     subtitle:
         "I like to share what I'm currently learning and experimenting",
-    displayMediumBlogs: "false", // Set true to display fetched medium blogs instead of hardcoded ones
+    displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
     blogs: [
         {
             url: "https://medium.com/@nikhilbadveli6/chatbot-1-natural-language-processing-nlp-36d510477ef1",

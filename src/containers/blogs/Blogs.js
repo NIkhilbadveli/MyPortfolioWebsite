@@ -23,14 +23,14 @@ export default function Blogs() {
   useEffect(() => {
     if (blogSection.displayMediumBlogs === "true") {
       const getProfileData = () => {
-        fetch("http://localhost:3000/MyPortfolioWebsite/blogs.json") // Do not use absolute path like this if the port is 8080.
+        fetch("blogs.json") // http://localhost:3000/MyPortfolioWebsite/ #### Do not use absolute path like this if the port is 8080.
           .then(result => {
             if (result.ok) {
               return result.json();
             }
           })
           .then(response => {
-            setMediumBlogsFunction(response.items);
+            setMediumBlogsFunction(response.items.slice(0, 10));
           })
           .catch(function (error) {
             console.error(
