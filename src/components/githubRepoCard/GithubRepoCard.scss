@@ -1,15 +1,18 @@
 @import "../../_globalColor";
 
 .repo-card-div {
+  display: flex;
+  align-items: center;
   color: $githubRepoCardColor;
   background-color: $lightBackground2;
   box-shadow: $lightBoxShadowDark 0px 10px 30px -15px;
-  padding: 2rem;
+  padding: 1rem;
   cursor: pointer;
   -webkit-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease;
 }
+
 .repo-card-div:hover {
   box-shadow: $lightBoxShadowDark 0px 20px 30px -10px;
 }
@@ -77,14 +80,20 @@
   -webkit-box-orient: vertical;
 }
 
+.repo-image {
+  margin-right: 20px;
+}
+
 .dark-card-mode {
   background-color: $darkBackground;
   color: $textColorDark;
 }
+
 .dark-card-mode p {
   color: $textColorDark;
 }
+
 .dark-card-mode:hover {
-  background-color: $buttonColor !important;
-  box-shadow: 0px 0px 16px $darkBoxShadow;
+  background-color: $buttonHover !important;
+  //box-shadow: 0px 0px 16px $darkBoxShadow;
 }

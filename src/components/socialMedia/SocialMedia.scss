@@ -52,6 +52,11 @@
   background-color: $twitter;
 }
 
+.twitter-main {
+  display: grid;
+  align-items: center;
+}
+
 .medium i {
   background-color: $medium;
 }

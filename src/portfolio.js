@@ -254,9 +254,9 @@ const achievementSection = {
 // Blogs Section
 
 const blogSection = {
-    title: "Blogs",
+    title: "Articles",
     subtitle:
-        "I like to share what I'm currently learning and experimenting",
+        "-_- -_- -_- -_- -_- -_- -_- -_- -_- -_- -_- -_- -_- -_- -_-",
     displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
     blogs: [
         {

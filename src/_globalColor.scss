@@ -3,8 +3,8 @@ Certain colors are used for different and multiply types of elements.
 For greater control over colors visit each components .scss file. */
 
 // button colors
-$buttonColor: #55198b;
-$buttonHover: #8c43ce;
+$buttonColor: #616F39;
+$buttonHover: #3E432E;
 $topButtonHover: #000;
 
 // text colors light theme
@@ -16,7 +16,7 @@ $talkCardSubTitle: #7f8287;
 $blogCardTitleColor: #262626;
 
 // text color dark theme
-$textColorDark: #ffffff;
+$textColorDark: #A7D129;
 
 // toggle switch colors
 $toggleCheck: #2196f3;
@@ -36,7 +36,7 @@ $lightBackground2: rgb(255, 255, 255);
 $lightBackground3: #f5f2f4;
 $blogCardContainerColor: #586069;
 // dark background colors
-$darkBackground: #171c28;
+$darkBackground: #000000; //171c28;
 
 // light theme box shadows
 $lightBoxShadowDark: rgba(0, 0, 0, 0.2);
