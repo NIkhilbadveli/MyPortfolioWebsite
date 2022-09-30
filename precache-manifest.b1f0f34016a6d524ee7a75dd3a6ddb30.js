@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "acb77c004426b585e9c89a56ffb25b73",
+    "revision": "7033d6b71f4fc345217263d8ab9a0b83",
     "url": "/MyPortfolioWebsite/index.html"
   },
   {
-    "revision": "b80a575372da8683543d",
-    "url": "/MyPortfolioWebsite/static/css/3.7bd959ab.chunk.css"
+    "revision": "fa5851e7d821f02379e4",
+    "url": "/MyPortfolioWebsite/static/css/3.141498b0.chunk.css"
   },
   {
-    "revision": "024c44a921d160f47c50",
-    "url": "/MyPortfolioWebsite/static/css/4.e31574be.chunk.css"
+    "revision": "90da5df66d5b7d04f04c",
+    "url": "/MyPortfolioWebsite/static/css/4.17ddaccf.chunk.css"
   },
   {
-    "revision": "5f257b90f281d35a020d",
-    "url": "/MyPortfolioWebsite/static/css/main.99cefed9.chunk.css"
+    "revision": "d8d702d8a9e108e94472",
+    "url": "/MyPortfolioWebsite/static/css/main.bc002f57.chunk.css"
   },
   {
-    "revision": "e5e41ccb24b06e5b6235",
-    "url": "/MyPortfolioWebsite/static/js/2.62cb24d7.chunk.js"
+    "revision": "05d430920c6c2e69de64",
+    "url": "/MyPortfolioWebsite/static/js/2.24b51ee9.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/MyPortfolioWebsite/static/js/2.62cb24d7.chunk.js.LICENSE.txt"
+    "url": "/MyPortfolioWebsite/static/js/2.24b51ee9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b80a575372da8683543d",
-    "url": "/MyPortfolioWebsite/static/js/3.2a510fab.chunk.js"
+    "revision": "fa5851e7d821f02379e4",
+    "url": "/MyPortfolioWebsite/static/js/3.75b03c5e.chunk.js"
   },
   {
-    "revision": "024c44a921d160f47c50",
-    "url": "/MyPortfolioWebsite/static/js/4.9d38bd55.chunk.js"
+    "revision": "90da5df66d5b7d04f04c",
+    "url": "/MyPortfolioWebsite/static/js/4.112f2c1e.chunk.js"
   },
   {
-    "revision": "5f257b90f281d35a020d",
-    "url": "/MyPortfolioWebsite/static/js/main.dce30d78.chunk.js"
+    "revision": "d8d702d8a9e108e94472",
+    "url": "/MyPortfolioWebsite/static/js/main.6bce7a2c.chunk.js"
   },
   {
-    "revision": "7ac215558a903faff8f3",
-    "url": "/MyPortfolioWebsite/static/js/runtime-main.68dd113b.js"
+    "revision": "37d159c4da2cb6ed12ab",
+    "url": "/MyPortfolioWebsite/static/js/runtime-main.08475b15.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -52,6 +52,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyPortfolioWebsite/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
+    "revision": "fc4ff80f42697877765b14c2700b8f1f",
+    "url": "/MyPortfolioWebsite/static/media/artificial_neural_networks.fc4ff80f.gif"
+  },
+  {
     "revision": "51cf7192327488da3d2a171280680c16",
     "url": "/MyPortfolioWebsite/static/media/contactMailDark.51cf7192.svg"
   },
@@ -60,12 +64,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyPortfolioWebsite/static/media/developerActivity.59389695.svg"
   },
   {
+    "revision": "a1a592beba4dfb72ace2882494269a22",
+    "url": "/MyPortfolioWebsite/static/media/half_cheetah.a1a592be.gif"
+  },
+  {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/MyPortfolioWebsite/static/media/manOnTable.52be3144.svg"
   },
   {
+    "revision": "8e566df04c1e9e990fd3d9b3d84c9abc",
+    "url": "/MyPortfolioWebsite/static/media/neuromarketing.8e566df0.gif"
+  },
+  {
     "revision": "c1a95f7335cbfb730b937e19e8830a53",
     "url": "/MyPortfolioWebsite/static/media/programmer.c1a95f73.svg"
+  },
+  {
+    "revision": "18338177b00f7af8fddefadc8827dbac",
+    "url": "/MyPortfolioWebsite/static/media/pubmed.18338177.gif"
   },
   {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
